@@ -5,6 +5,7 @@ This use case focus on pose detection task by using [OPEN POSE](https://cmu-perc
 
 * Introduction
 * Import libraries
+* Download the video and capture the images for the pose detection
 * Download video
 * Setup model
 * Detect key points and draw the skeleton
